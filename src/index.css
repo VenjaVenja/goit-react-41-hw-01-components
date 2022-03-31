@@ -13,3 +13,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+li {
+  list-style: none;
+}
+
+p {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+/* // style={{
+      //   height: '100vh',
+      //   display: 'flex',
+      //   justifyContent: 'center',
+      //   alignItems: 'center',
+      //   fontSize: 40,
+      //   textTransform: 'uppercase',
+      //   color: '#010101',
+      // }} */
